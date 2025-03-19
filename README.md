@@ -13,7 +13,7 @@ DocuQuery is a Streamlit-based web application that lets users upload PDF docume
 ## Installation
 1. **Clone the Repository**:
    ```
-   git clone git@github.com:Harishharris/DocuQuery-Nasscom.git
+   git clone git@github.com:mahitha-07/DocQuery---Nasscom.git
    cd DocuQuery-Nasscom
    ```
 
